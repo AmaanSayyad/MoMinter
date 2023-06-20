@@ -15,3 +15,6 @@ Smart contracts deployed on the Mantle Testnet blockchain enable the creation an
 With its dedication to privacy and security, Mominter integrates LightHouse encryption and access control mechanisms, ensuring that video moments remain protected and accessible only to authorized users. Additionally, Mominter incorporates XMTP for chat and interaction, providing a collaborative environment for creators and viewers to engage and build communities around their shared interests.
 
 Mominter represents a pioneering step towards democratizing content creation, ownership, and distribution in the digital era. By empowering creators with the ability to mint, share, and monetize their video moments as NFTs on the Mantle blockchain, Mominter opens up new possibilities for artists, educators, professionals, and enthusiasts to harness the full potential of blockchain technology and shape the future of video content.
+
+Mantle Testnet deployed Address = "0x085446624cA30579532B12B7EAeD211B1E6Ac1de"
+https://explorer.testnet.mantle.xyz/address/0x085446624cA30579532B12B7EAeD211B1E6Ac1de
